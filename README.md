@@ -4,7 +4,7 @@ Data Analyst Portfolio
 
 Introduction
 
-Hello, I'm Alain Monroy, an experienced Data Analyst with a strong background in business consulting and a recent MSc in Data Analytics at DBS. Over the past years, I've successfully applied my analytical skills to boost business performance and have been running my own company where I leverage new knowledge gained from my MSc to enhance various aspects of operations.
+Hello, I'm Alain Monroy, an experienced Data Analyst with a strong background in business consulting and on my way to complete a MSc in Data Analytics at Dublin Business School. Over the past years, I've successfully applied my analytical skills to boost business performance and have been running my own company where I leverage new knowledge gained from my MSc to enhance various aspects of operations.
 
 Project Highlights
 
