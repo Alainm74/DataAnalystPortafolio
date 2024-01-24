@@ -43,7 +43,11 @@ Proposed probability models for predictive analytics.
 Addressed independence of categorical variables using hypothesis tests.
 
 Additional Information
+
 -MSc in Data Analytics (To be completed on May 2024)
+
 -7 years of experience in business consulting
+
 -Actively seeking data analyst job opportunities
+
 -Entrepreneur
